@@ -53,7 +53,8 @@ You can check out the live version here:
 
 ## 📸 Screenshots
 
-![Tic Tac Toe Screenshot](https://raw.githubusercontent.com/Gourav-vaishnav/tic-tac-toe/main/screenshot.png) <!-- Replace with actual screenshot path if available -->
+![tic-tac-toe](https://github.com/user-attachments/assets/cfc53397-b77b-40d0-8384-ec01f0b18187)
+<!-- Replace with actual screenshot path if available -->
 
 ---
 
